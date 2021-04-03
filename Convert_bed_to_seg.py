@@ -1,7 +1,7 @@
 
 """Take a bedfile with depths for an entire chromosome, pull out region of interest, and convert to SEG file for visualization in IGV
 
-USAGE: python Convert_bed_to_seq.py [IGV_sequence] [bedfile] [start]
+USAGE: python Convert_bed_to_seg.py [IGV_sequence] [bedfile] [start]
 
 IGV_sequence:  FASTA file to visualize in IGV
 bedgraph:  bedGraph file with depths to visualize

@@ -10,9 +10,9 @@ For scripts used for analysis of human palindrome deletions from the 1000 Genome
 "Sample Data" contains example files used as input for these scripts (see description within each script for reference to appropriate sample data)
 
 
-\textbf{fast_dot_plot.pl} :  Creates square and triangular dot plots from FASTA files
+**fast_dot_plot.pl** :  Creates square and triangular dot plots from FASTA files
 
-\textbf{triangle_plot_annotated.py}:  Annotates triangle dot plot with positions of palindrome arms and protein-coding genes
+**triangle_plot_annotated.py**:  Annotates triangle dot plot with positions of palindrome arms and protein-coding genes
 
 square_plot_annotated.py:  Annotates square dot plot with positions of palindrome arms and protein-coding genes
 

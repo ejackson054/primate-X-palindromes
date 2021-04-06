@@ -1,5 +1,6 @@
 # primate-X-palindromes
 
+
 Supplemental Code for Jackson et al. 2021, "Natural selection preserves large palindromes on the primate X Chromosome"
 
 Written by H. Skaletsky (fast_dot_plot.pl, Perl) and E. Jackson (all other codes, Python 3)
@@ -8,9 +9,10 @@ For scripts used for analysis of human palindrome deletions from the 1000 Genome
 
 "Sample Data" contains example files used as input for these scripts (see description within each script for reference to appropriate sample data)
 
-fast_dot_plot.pl:  Creates square and triangular dot plots from FASTA files
 
-triangle_plot_annotated.py:  Annotates triangle dot plot with positions of palindrome arms and protein-coding genes
+\textbf{fast_dot_plot.pl} :  Creates square and triangular dot plots from FASTA files
+
+\textbf{triangle_plot_annotated.py}:  Annotates triangle dot plot with positions of palindrome arms and protein-coding genes
 
 square_plot_annotated.py:  Annotates square dot plot with positions of palindrome arms and protein-coding genes
 

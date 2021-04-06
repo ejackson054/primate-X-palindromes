@@ -1,7 +1,12 @@
 # primate-X-palindromes
 
-#Codes for analysis and visualization of primate X palindromes.  All codes are written in Python 3 except for fast_dot_plot.pl, which is written in Perl.  For scripts used for analysis of human palindrome deletions from the 1000 Genomes Project, see https://github.com/lsteitz/y-amplicon-evolution (Teitz et al. 2018 ). "Sample Data" contains example files used as input for these scripts (see description within each script for reference to appropriate sample data).
+Supplemental Code for Jackson et al. 2021, "Natural selection preserves large palindromes on the primate X Chromosome"
 
+Written by H. Skaletsky (fast_dot_plot.pl, Perl) and E. Jackson (all other codes, Python 3)
+
+For scripts used for analysis of human palindrome deletions from the 1000 Genomes Project, see https://github.com/lsteitz/y-amplicon-evolution (Teitz et al. 2018 ). 
+
+"Sample Data" contains example files used as input for these scripts (see description within each script for reference to appropriate sample data)
 
 fast_dot_plot.pl:  Creates square and triangular dot plots from FASTA files
 

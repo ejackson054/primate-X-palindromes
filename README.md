@@ -1,6 +1,6 @@
 # primate-X-palindromes
 
-
+## Overview
 
 Supplemental Code for Jackson et al. 2021, "Natural selection preserves large palindromes on the primate X Chromosome"
 
@@ -10,7 +10,7 @@ For scripts used for analysis of human palindrome deletions from the 1000 Genome
 
 "Sample Data" contains example files used as input for these scripts (see description within each script for reference to appropriate sample data)
 
-
+## Scripts
 
 **fast_dot_plot.pl** :  Creates square and triangular dot plots from FASTA files
 

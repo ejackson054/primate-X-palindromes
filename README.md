@@ -2,7 +2,7 @@
 
 ## Overview
 
-Supplemental Code for Jackson et al. 2021, "Natural selection preserves large palindromes on the primate X Chromosome"
+Supplemental Code for Jackson et al. 2021 (in revision), "Natural selection preserves large palindromes on the primate X Chromosome"
 
 Written by H. Skaletsky (fast_dot_plot.pl, Perl) and E. Jackson (all other codes, Python 3)
 
